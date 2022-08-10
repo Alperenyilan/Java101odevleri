@@ -1,1 +1,1 @@
-# Java101-devleri
+# Java101-odevleri
